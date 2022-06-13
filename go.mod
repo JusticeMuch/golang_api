@@ -1,5 +1,3 @@
-module github.com/justicemuch/golang_api
+module justicemuch/golang-api
 
-go 1.17
-
-require github.com/gorilla/mux v1.8.0 // indirect
+go 1.18
